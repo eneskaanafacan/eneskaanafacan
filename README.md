@@ -55,12 +55,3 @@
 - **Endüstriyel Tedarik Mobil Uygulaması:** Tedarik süreçlerini dijitalleştiren Flutter ve Firebase tabanlı mobil uygulama.
 
 <br>
-
-### 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eneskaanafacan&show_icons=true&theme=radium&locale=tr" alt="Enes Kaan Afacan GitHub İstatistikleri" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneskaanafacan&layout=compact&theme=radium" alt="Enes Kaan Afacan En Çok Kullanılan Diller" />
-</p>
