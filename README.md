@@ -3,7 +3,7 @@
 <h3 align="center">Bilgisayar Mühendisliği Öğrencisi</h3>
 
 <p align="center">
-  GNU/Linux sistem yönetimi, backend geliştirme ve mobil uygulama süreçlerine odaklanıyorum. Özgür yazılım felsefesini benimsiyorum. Kendimi geliştirmeye çalışıyorum.
+  GNU/Linux sistem yönetimi, yazılım geliştirme süreçlerine odaklanıyorum. Özgür yazılım felsefesini benimsiyorum. Kendimi geliştirmeye çalışıyorum.
 </p>
 
 <br>
