@@ -48,7 +48,8 @@
 
 ### 🚀 Öne Çıkan Projelerim
 
-- **OMu IoT Lab :** IoT sensör verilerini gerçek zamanlı işleyen, Dokku ve Nginx ile sunucu altyapısı sağlanan, border router olarak raspberry pi zero, backend de Spring Boot (Java) mimarisi kullanan bir sistem. [IoT Lab OMU](https://iotlab.omu.edu.tr/)
+- **OMU IoT Lab :** IoT sensör verilerini gerçek zamanlı işleyen, Dokku ve Nginx ile sunucu altyapısı sağlanan, border router olarak raspberry pi zero, backend de Spring Boot (Java) mimarisi kullanan bir sistem. [IoT Lab OMU](https://iotlab.omu.edu.tr/)
+- **contiki-ng-ota-update :** Düşük güçlü (8 KB RAM) Contigi-NG işletim sistemli IoT düğümlerinde Stop-and-Wait algoritması ve Coffee File System (CFS) kullanarak güvenli ve kayıpsız (CRC) şekilde havadan (Over-The-Air) yazılım güncellenmesi amaçlı gömülü sistem projesi.
 - **IoT Veri Analisti AI:** Veri gizliliği için tamamen yerel (offline) çalışan, LangChain ve Qwen 2.5 destekli Python akıllı sorgu motoru.
 - **Kullanıcı Segmentasyon Servisi:** Dockerize edilmiş, her istek için izole in-memory SQLite kullanan dinamik Flask REST API.
 - **Endüstriyel Tedarik Mobil Uygulaması:** Tedarik süreçlerini dijitalleştiren Flutter ve Firebase tabanlı mobil uygulama.
