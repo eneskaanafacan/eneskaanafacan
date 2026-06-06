@@ -48,7 +48,7 @@
 
 ### 🚀 Öne Çıkan Projelerim
 
-- ** IoT Labratuvar :** IoT sensör verilerini gerçek zamanlı işleyen, Dokku ve Nginx ile dağıtılan backend de Spring Boot (Java) mimarisi kullanan bir sistem. [IoT Lab OMU](https://iotlab.omu.edu.tr/)
+- **OMu IoT Lab :** IoT sensör verilerini gerçek zamanlı işleyen, Dokku ve Nginx ile sunucu altyapısı sağlanan, border router olarak raspberry pi zero, backend de Spring Boot (Java) mimarisi kullanan bir sistem. [IoT Lab OMU](https://iotlab.omu.edu.tr/)
 - **IoT Veri Analisti AI:** Veri gizliliği için tamamen yerel (offline) çalışan, LangChain ve Qwen 2.5 destekli Python akıllı sorgu motoru.
 - **Kullanıcı Segmentasyon Servisi:** Dockerize edilmiş, her istek için izole in-memory SQLite kullanan dinamik Flask REST API.
 - **Endüstriyel Tedarik Mobil Uygulaması:** Tedarik süreçlerini dijitalleştiren Flutter ve Firebase tabanlı mobil uygulama.
